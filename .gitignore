@@ -134,3 +134,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Firebase
+.firebase/
+firebase-debug.log
+firestore.indexes.json
+firestore.rules
+
+# macOS junk
+.DS_Store
+
+# IDE folders (if not already covered)
+.vscode/
+.idea/
